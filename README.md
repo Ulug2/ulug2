@@ -37,9 +37,10 @@ From AI-powered automation to innovative web applications, I love solving proble
 - Implemented **local storage** to preserve saved links.  
 - Enabled users to **capture the URL of active windows** and manage them.  
 
-### **♟️ Java Board Game - "Breakthrough" (Apr. 2024)**  
-- Designed and implemented **game logic** for the board game.  
-- Developed functions for **legal move validation, undo feature using stacks, and game termination conditions**.  
+### **♟️ TutorAI – Intelligent Interactive Tutoring System (Apr. 2024)**  
+- Developed TutorAI, an **AI-powered** virtual tutoring platform that delivers personalized education to users across subjects and skill levels.
+- Leveraging **OpenAI GPT-4** for natural language processing, the system simulates one-on-one tutoring sessions, adapting explanations, exercises, and feedback to individual learning styles.
+- Integrated with **Telegram Bot API**, TutorAI provides a seamless, interactive interface where users engage with features like dynamic lesson roadmaps, real-time Q&A, and progress assessments.  
 
 ### **🖼️ Grease Gallery Website (Nov. 2024)**  
 - **Developed a website for uploading and analyzing grease sample images.**  
