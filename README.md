@@ -19,9 +19,14 @@ From AI-powered automation to innovative web applications, I love solving proble
  
 
 ### **Frontend**  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)   
+
+### **Backend**  
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### **Tools & Platforms**  
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
@@ -32,10 +37,12 @@ From AI-powered automation to innovative web applications, I love solving proble
 
 ## 🏆 Recent Projects  
 
-### **🔗 Chrome Extension for Link Management (Jul. 2024)**  
-- **Built a browser extension** to save and manage URLs efficiently.  
-- Implemented **local storage** to preserve saved links.  
-- Enabled users to **capture the URL of active windows** and manage them.  
+### **🛡 VigilWatch Web App @ HenHacks (Mar. 2025)**
+- Developed a real-time emergency alert web application enabling users to send distress signals with live location.
+- Implemented user authentication with email, password, and unique usernames to ensure secure access.
+- Built a RESTful API with Express and Node.js to handle user registration, authentication, and alert management.
+- Integrated MongoDB for storing user data and alerts, ensuring reliable and persistent data storage.
+- Integrated the Google Maps API to display real-time user locations and enhance emergency response coordination. 
 
 ### **🤖 TutorAI – Intelligent Interactive Tutoring System (Apr. 2024)**  
 - Developed TutorAI, an **AI-powered** virtual tutoring platform that delivers personalized education to users across subjects and skill levels.
@@ -48,6 +55,11 @@ From AI-powered automation to innovative web applications, I love solving proble
 - Implemented **color analysis and dataset creation** for efficient extraction of color values.  
 - Added a **search feature for sample IDs** and a **trend analysis report generator**.  
 
+### **🔗 Chrome Extension for Link Management (Jul. 2024)**  
+- **Built a browser extension** to save and manage URLs efficiently.  
+- Implemented **local storage** to preserve saved links.  
+- Enabled users to **capture the URL of active windows** and manage them.
+  
 ---
 
 ## 🎓 Experience  
