@@ -8,7 +8,7 @@ I enjoy **learning new technologies**, experimenting with **full-stack developme
 - 📜 **Dean’s List** (GPA: 3.74/4.00)  
 - 🎯 **Vice President at ACM Club**  
 - 💡 **Experience in teaching SAT Math**  
-- 🌍 **Multilingual**: English, Russian, Kazakh, Japanese (Elementary), Turkish (Elementary)  
+- 🌍 **Multilingual**: English, Russian, Kazakh, Uzbek, Kyrgyz, Ukrainian, Japanese (Elementary), Turkish (Elementary)  
 
 ## 🛠 Technical Skills  
 
@@ -47,6 +47,10 @@ I enjoy **learning new technologies**, experimenting with **full-stack developme
 ---
 
 ## 🏆 Recent Projects  
+### **💬 Partner Chat AI Assistant Chrome Extension (Aug. 2025)**
+- Created a secure Node.js Express backend integrating OpenAI APIs for audio transcription and chat completion.
+- Developed a responsive React frontend with TypeScript for smooth transcription and response display.
+- Built a Chrome extension that records audio and generates AI-powered natural response suggestions in real time.
 
 ### **📱 Pet Tok @i – AI-Powered Mobile App (Feb. 2025)**
 - Built the **front-end of a mobile social platform** for pet lovers using **React Native**.  
@@ -76,20 +80,32 @@ I enjoy **learning new technologies**, experimenting with **full-stack developme
 
 ## 🎓 Experience  
 
-### **💻 Vice President, former Outreach Officer | ACM Club (May 2024 - Present)**
-- Organize **coding challenges & tech trivia** on social media.  
-- Use **Instagram insights and analytics** to optimize outreach strategy.  
-- Design **visual content** highlighting club achievements and events.  
-- Increased **social media reach by 3,000%**.  
+### **👨‍🏫 CS Teaching Assistant | Gettysburg College (Aug. 2025 – Present)**
+• Mentor 30+ students by guiding them through programming concepts and data structure principles during semiweekly office hours and in-class support.
+• Assist students in reviewing and debugging code, fostering independent problem-solving abilities and driving 
+measurable improvement in academic performance.
 
-### **📱 Front-End Developer | Pet Tok @i (Feb. 2025 - Present)**
+### **📱 Front-End Developer | Pet Tok @i (April. 2025 - July 2025)**
 - Led **front-end development** of the mobile app using **React Native**.  
 - Implemented **authentication, feeds, and AI content integration**.  
-- Collaborated with backend developers to **ensure smooth data flow**.  
+- Collaborated with backend developers to **ensure smooth data flow**.
 
-### **📚 SAT Math & IELTS Teacher (Oct. 2023 – Aug. 2024)**
+---
+
+## 🎯 Extracurricular Activites  
+
+### **📚 SAT Math & IELTS Teacher (Oct. 2023 – Present)**
 - Improved **students’ SAT scores by 150+ points** and **IELTS scores by 1–1.5 points**.  
-- Provided **one-on-one tutoring** and created **engaging lesson plans**.  
+- Provided **one-on-one tutoring** and created **engaging lesson plans**.
+
+### **💻 Vice President, former Outreach Officer | ACM Club (May 2024 - Present)**
+- Organize **coding challenges & tech trivia** on social media.  
+- Collaborate with the club president and officers to plan and execute initiatives that foster technical skills and 
+problem-solving, including hackathon sponsorships, LeetCode practice sessions, Tech Talks, and collaborative 
+group projects.
+- Use **Instagram insights and analytics** to optimize outreach strategy.  
+- Design **visual content** highlighting club achievements and events.  
+- Increased **social media reach by 3,000%**.
 
 ---
 
