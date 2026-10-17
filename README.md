@@ -28,7 +28,7 @@ Support students in programming fundamentals, debugging, object-oriented program
 **Frontend Engineer Intern — PM Accelerator** | Apr–Jul 2025  
 Developed mobile frontend features for PetTokAI using React Native and TypeScript, integrating APIs and application state management.
 
-**Activity Counselor & Tour Guide — YES USA**  
+**Intern — YES USA**  
 Contributed to website refinement, database management, and digital support for educational program operations. Applied Computer Science skills to improve digital resources, organize program data, and support administrative workflows.
 
 **Vice-President — ACM Club**  
