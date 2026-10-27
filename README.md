@@ -17,8 +17,8 @@ AI-powered regulatory intelligence platform for private equity firms. Integrates
 ### UniTee Content Engine
 Python-based content automation pipeline using Telethon to collect, analyze, and curate university community discussions for safe, consistent content seeding.
 
-### PetTokAI
-AI-powered mobile social platform for pet lovers. Developed frontend features using React Native, Expo, and TypeScript, integrating with a Python backend.
+### [PetTokAI](https://drive.google.com/file/d/1yaNGkXt_3fZHWXm-udKz8q-GbGmoeetH/view?usp=sharing) · [GitHub](https://github.com/Jananjiang/PetTok-AI)
+Built the React Native frontend for a dog training app, including onboarding, authentication, courses, and gamification features. Integrated a Python backend and AI chatbot for personalized training plans, collaborating with a five-member team to deliver a functional demo.
 
 ## 💼 Experience
 
