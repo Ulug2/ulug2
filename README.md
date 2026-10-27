@@ -4,7 +4,7 @@ Computer Science student at Gettysburg College building mobile applications, AI-
 
 - 🎓 **B.S. Computer Science** | Minors in Data Science & Business — May 2027
 - 🏆 Dean's Honor List | ACM Vice-President | CS Teaching Assistant
-- 💻 **Tech:** TypeScript, Java, Python, React Native, Node.js, Express, Supabase, PostgreSQL
+- 💻 **Tech:** TypeScript, Java, Python, React Native, Node.js, Express, Supabase, PostgreSQL, FastAPI
 
 ## 🚀 Featured Projects
 
